@@ -2,6 +2,7 @@ package model.entities;
 
 import java.io.Serializable;
 
+@SuppressWarnings("serial")
 public class Department implements Serializable {
 
 	private Integer id;
